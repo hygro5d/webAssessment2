@@ -8,5 +8,6 @@ Explain the steps behind building a JavaScript Application.
 
 
 Reflect on the following questions.
--What did you like about this project? : Get to put my Javascript knowledge to use. 
--What did you struggle with in this project? : Getting the path character to reflect movement. Need more time. 
+
+- What did you like about this project?: Get to put my Javascript knowledge to use. 
+- What did you struggle with in this project?: Getting the path character to reflect movement. Need more time. 
